@@ -1,7 +1,7 @@
 # Human Activity Recognition Final Project Python Analysis
 
-Notebook : Human_Activity_Prediction_Jupyter.ipynb
-Powerpoint : Human_Activity_Recognition_PowerPoint.pptx
+- Notebook : Human_Activity_Prediction_Jupyter.ipynb
+- Powerpoint : Human_Activity_Recognition_PowerPoint.pptx
 
 Before you need to install the requirements (packages) from requirements.txt file in your python virtual environment
 
